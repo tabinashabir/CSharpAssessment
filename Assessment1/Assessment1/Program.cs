@@ -37,8 +37,6 @@ namespace PrintingATriangle
             Console.WriteLine("Enter the width of the triangle");
             bool isWidthConverted = int.TryParse(Console.ReadLine(), out width);
 
-            //bool isWidthConverted = int.TryParse(thewidth, out width);
-
             if (isWidthConverted == false)
             {
                 Console.WriteLine("Please enter a valid number");
