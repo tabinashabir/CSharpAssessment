@@ -1,0 +1,15 @@
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\bin\Debug\net6.0\TheProject.exe
+C:\Users\tabin\source\repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\bin\Debug\net6.0\TheProject.deps.json
+C:\Users\tabin\source\repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\bin\Debug\net6.0\TheProject.runtimeconfig.json
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\bin\Debug\net6.0\TheProject.dll
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\bin\Debug\net6.0\TheProject.pdb
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.csproj.AssemblyReference.cache
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.AssemblyInfoInputs.cache
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.AssemblyInfo.cs
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.csproj.CoreCompileInputs.cache
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.dll
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\refint\TheProject.dll
+C:\Users\tabin\Source\Repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.pdb
+C:\Users\tabin\source\repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\TheProject.genruntimeconfig.cache
+C:\Users\tabin\source\repos\tabinashabir\CSharpAssessment\CSharpAssessment\TheProject\obj\Debug\net6.0\ref\TheProject.dll
