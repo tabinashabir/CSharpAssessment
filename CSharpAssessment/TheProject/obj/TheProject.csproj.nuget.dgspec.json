@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tabin\\Source\\Repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj": {}
+    "C:\\Users\\tabin\\source\\repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tabin\\Source\\Repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj": {
+    "C:\\Users\\tabin\\source\\repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tabin\\Source\\Repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj",
+        "projectUniqueName": "C:\\Users\\tabin\\source\\repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj",
         "projectName": "TheProject",
-        "projectPath": "C:\\Users\\tabin\\Source\\Repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj",
+        "projectPath": "C:\\Users\\tabin\\source\\repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\TheProject.csproj",
         "packagesPath": "C:\\Users\\tabin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tabin\\Source\\Repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\obj\\",
+        "outputPath": "C:\\Users\\tabin\\source\\repos\\tabinashabir\\CSharpAssessment\\CSharpAssessment\\TheProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tabin\\AppData\\Roaming\\NuGet\\NuGet.Config",
