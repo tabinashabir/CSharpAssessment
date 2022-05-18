@@ -23,19 +23,19 @@ namespace TheProject
                 switch (choice)
                 {
                     case "1":
-                        PrintingATriangle.PrintingATriangleClass.PrintTriangle();
+                        PrintingATriangleClass.PrintTriangle();
                         break;
 
                     case "2":                  
-                        PrintingTableofANumber.PrintingTableofANumberClass.PrintTable();
+                        PrintingTableofANumberClass.PrintTable();
                         break;
 
                     case "3":
-                        PrintingAPyramid.PrintingAPyramidClass.PrintPyramid();
+                        PrintingAPyramidClass.PrintPyramid();
                         break;
 
                     case "4":
-                        PrintingSumofDigitsofANumber.PrintingSumofDigitsofANumberClass.PrintSum();
+                        PrintingSumofDigitsofANumberClass.PrintSum();
                         break;
 
                     default:
@@ -46,14 +46,14 @@ namespace TheProject
                 do
                 {
                     Console.WriteLine("\nDo you want to continue exploring the project? Yes/No");
-                    exitChoice = Console.ReadLine();
-                    if (exitChoice != "Yes" && exitChoice != "No")
+                    exitChoice = Console.ReadLine().ToUpper();
+                    if (exitChoice != "YES" && exitChoice != "NO")
                     {
                         Console.WriteLine("Invalid choice, please say Yes or No");
                     }
-                } while (exitChoice != "Yes" && exitChoice != "No");
+                } while (exitChoice != "YES" && exitChoice != "NO");
 
-            } while (exitChoice == "Yes");
+            } while (exitChoice == "YES");
 
         }
 
