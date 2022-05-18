@@ -12,7 +12,6 @@ namespace TheProject
         {
 
             string? exitChoice = "";
-            Console.WriteLine("Welcome to my program! Please choose what problem you'd like to explore");
 
             do
             {
